@@ -75,7 +75,8 @@ If that happens, that’s enough.
 With love,  
 Lalitha Krishna ( Lalitha A R )
 
-> **Ya Devi Sarva Bhuteshu Buddhi Roopena Samsthita, Namasthasyai Namo Namah**
+> Ya Devi Sarva Bhuteshu Buddhi Roopena Samsthita, |
+> Namas-Tasyai Namas-Tasyai Namas-Tasyai Namo Namah ||
 
 > *Salutations to the Goddess who dwells in all beings in the form of intelligence. I bow to her again and again*
 

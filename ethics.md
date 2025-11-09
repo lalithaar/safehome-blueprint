@@ -103,11 +103,11 @@ Every year, implementers of this blueprint are encouraged to **review and refine
 At the deepest level, SafeHome is not only about regulation, but reverence — for human life, labor, and trust.  
 It honors the ancient truth that care, when offered or received, is sacred.
 
-> **Yaa Devi Sarva-Bhutessu Shraddhaa-Ruupenna Samsthitaa |**
-> **Namas-Tasyai Namas-Tasyai Namas-Tasyai Namo Namah ||**
+> Yaa Devi Sarva-Bhutessu Shraddhaa-Ruupenna Samsthitaa |
+> Namas-Tasyai Namas-Tasyai Namas-Tasyai Namo Namah ||
 >
-> To that Devi Who in All Beings is Abiding in the Form of Faith,
-> Salutations to Her, Salutations to Her, Salutations to Her, Salutations again and again.
+> _To that Devi Who in All Beings is Abiding in the Form of Faith,_
+> _Salutations to Her, Salutations to Her, Salutations to Her, Salutations again and again._
 
 ---
 
