@@ -1,3 +1,10 @@
+---
+title: License
+layout: default
+nav_order: 3
+permalink: /license
+---
+
 # License
 
 ### **TL;DR - Why This License Exists**

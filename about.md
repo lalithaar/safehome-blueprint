@@ -1,3 +1,10 @@
+---
+title: About
+layout: default
+nav_order: 2
+permalink: /about
+---
+
 # About SafeHome
 
 ### A Blueprint for Safe, Equal, and Dignified Domestic Work
@@ -35,7 +42,7 @@ No discrimination — by gender, class, caste, race, or religion. Everyone deser
 
 ## The License
 
-All materials in this repository are shared under the **[Open Impact License (OIL)](license.md)** — a purpose-built license that allows anyone to use, adapt, and expand the SafeHome Blueprint **as long as they uphold its ethical core**.
+All materials in this repository are shared under the **[Open Impact License (OIL)](/license)** — a purpose-built license that allows anyone to use, adapt, and expand the SafeHome Blueprint **as long as they uphold its ethical core**.
 
 You don’t have to credit the original author.  
 You do have to disclose that your work is **based on the SafeHome Blueprint**, and link back to the license for accountability.  
