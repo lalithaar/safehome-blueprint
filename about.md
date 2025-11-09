@@ -72,8 +72,11 @@ Because someone, somewhere, might take this blueprint and make it real — in a 
 
 If that happens, that’s enough.
 
-With love and clarity,  
-**Lalitha Krishna ( Lalitha A R ) **  
-*Creator of the SafeHome Blueprint*  
+With love,  
+Lalitha Krishna ( Lalitha A R )
 
-> _“Safety is not a privilege. It’s the ground we all deserve to stand on.”_
+> **Ya Devi Sarva Bhuteshu Buddhi Roopena Samsthita, Namasthasyai Namo Namah**
+
+> *Salutations to the Goddess who dwells in all beings in the form of intelligence. I bow to her again and again*
+
+_“Safety is not a privilege. It’s the ground we all deserve to stand on.”_
