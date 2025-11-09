@@ -6,3 +6,8 @@ url: https://lalithaar.github.io/safehome-blueprint/
 
 aux_links:
   Github Repository: https://github.com/lalithaar/safehome-blueprint
+
+just_the_docs:
+  html_head_custom: |
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+
