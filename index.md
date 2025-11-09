@@ -1,35 +1,91 @@
 ---
-title: Home
-layout: home
+layout: default
+title: SafeHome Blueprint
+nav_order: 1
+description: "A public-good design for a safer, dignified household services ecosystem."
+permalink: /
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# 🌿 SafeHome Blueprint
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+> *A shared design for dignity, trust, and safety in everyday work.*
 
-More specifically, the created site:
+---
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+## What this is
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+**SafeHome** is an open framework for how household services — cooking, cleaning, repairs, installations, and care work — can operate with complete **safety, accountability, and respect** for everyone involved.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+It isn’t a company.  
+It’s a **blueprint** — a set of principles, flows, and safety rules that anyone can adapt to build a fairer local service network.
 
-To get started with creating a site, simply:
+---
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+## Why it matters
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+Across towns and cities, both workers and clients face the same fears:  
+unverified strangers, unsafe situations, unclear rights.
 
-----
+**SafeHome** reimagines that relationship around three promises:
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+1. **Safety first** — verified identities, on-duty protection, zero-tolerance for misconduct.  
+2. **Equal respect** — workers and clients protected by the same code of conduct.  
+3. **Transparent trust** — every interaction reviewed, recorded, and accountable.
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+When safety becomes the foundation, trust and dignity naturally follow.
+
+---
+
+## How it could look
+
+Imagine booking help the same way you’d book a cab — but under a model built for humanity, not haste.
+
+- **Verified workers** choose their hours and services.  
+- **Residents** request assistance confidently, knowing each booking is protected.  
+- **Women-only households** can request women professionals by default.  
+- **Both sides** agree to clear behavioral terms; violations mean immediate removal and reporting.  
+- **Emergency and support channels** are active during every session.
+
+Safety here isn’t a marketing tag — it’s the **operating system**.
+
+---
+
+## The vision
+
+> *When work is dignified, homes become safer, and communities become kinder.*
+
+SafeHome aims to become an open standard — something that any responsible founder, collective, or local body can implement, as long as they preserve its ethical backbone.
+
+No one owns it.  
+Everyone can build from it — provided **safety and equality stay non-negotiable.**
+
+---
+
+## Open to all
+
+This site hosts the complete blueprint:  
+- guiding principles  
+- safety architecture  
+- operational flow  
+- policy templates  
+- ethical licensing terms  
+
+Anyone — with or without technical experience — can read, adapt, and build responsibly.
+
+---
+
+## Build, adapt, or share
+
+If this idea speaks to you, you can:
+
+- start a local pilot  
+- adapt it for your community  
+- translate and spread the principles  
+- or simply share it with someone who could bring it to life
+
+Even if you never build it, let the thought of **safe, dignified homes** travel farther than this page.
+
+---
+
+> _Safety is not an add-on. Dignity is not a luxury.  
+> They are the baseline on which every honest service must stand._
